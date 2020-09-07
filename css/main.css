@@ -1588,7 +1588,7 @@ input[type=number] {
     right: -40px;
     width: 10px;
     height: 10px;
-    background-image: url("../../img/dropdown__arrow--black.png");
+    background-image: url("../img/dropdown__arrow--black.png");
     transition: all 0.3s; }
 
 .submenu__recommend {
@@ -1680,7 +1680,7 @@ input[type=number] {
     position: absolute;
     width: 10px;
     height: 10px;
-    background-image: url("../../img/dropdown__arrow--black.png");
+    background-image: url("../img/dropdown__arrow--black.png");
     transition: all 0.3s;
     position: absolute;
     right: 20px;
@@ -2293,7 +2293,7 @@ input[type=number] {
     right: -20px;
     width: 10px;
     height: 10px;
-    background-image: url("../../img/dropdown__arrow--black.png");
+    background-image: url("../img/dropdown__arrow--black.png");
     transition: all 0.3s; }
 
 .filters__item {
