@@ -1509,12 +1509,11 @@ input[type=number] {
   border-radius: 50%;
   -webkit-appearance: none;
   -moz-appearance: none;
-  appearance: none; }
-  .user__basket-notification span {
-    position: absolute;
-    top: 0;
-    right: 3px;
-    font-size: 12px; }
+  appearance: none;
+  font-size: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
 
 .user__product-brand {
   font-weight: 500;
