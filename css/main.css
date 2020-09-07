@@ -1507,9 +1507,6 @@ input[type=number] {
   background-color: #ffcc00;
   border: none;
   border-radius: 50%;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
   font-size: 10px;
   display: flex;
   justify-content: center;
